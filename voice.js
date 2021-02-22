@@ -52,6 +52,7 @@ function read(text) {
     else {
         switch (text) {
             case "are you ok":
+            case "are you fine":
             case "how are you":
             case "how are you feeling":
                 speech.text = 'i am doing good. thanks for asking!';
