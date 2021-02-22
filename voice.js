@@ -73,6 +73,7 @@ function read(text) {
                 break;
 
             case "i love you":
+            case "fuck you":
             case "love you":
             case "hate you":
             case "miss you":
