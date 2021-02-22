@@ -56,7 +56,8 @@ function read(text) {
             case "how are you feeling":
                 speech.text = 'i am doing good. thanks for asking!';
                 break;
-
+            
+            case "your name":
             case "what is your name":
             case "who are you":
                 speech.text = 'My name is samah. i am your voice assistance!';
